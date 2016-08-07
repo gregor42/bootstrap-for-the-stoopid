@@ -1,5 +1,9 @@
 # bootstrap-for-the-stoopid
 
+20160807.1654
+Right.  A million more templates/examples to grok & hack.  What a hassle.
+And oh yeah look yet another dependency - bootlint: https://github.com/twbs/bootlint
+
 20160804.2005 
 This is where I start keeping track of my progress & making stupid comments
 Like first off - WTF? Does Bootstrap require JQuery?  SRSLY? WTF?
